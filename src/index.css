@@ -88,3 +88,32 @@ a{
 .submit-button{
   margin-right: 10px;
 }
+
+.boot_table--img{
+  background-image: url('../public/image/bp1.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px 0px;
+}
+
+.footer_bg{
+  background-color: #D14C68;
+  padding: 80px 0px;
+}
+
+.footer_bg ul{
+  margin: 0;
+  padding: 0;
+}
+
+.footer_bg ul li{
+  list-style-type: none;
+  padding: 6px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.footer_bg ul li a{
+  color: white;
+}

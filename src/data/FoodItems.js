@@ -7,16 +7,16 @@ const MENUITEMS = [
     Label: 'Hot',
     Price: '100',
     discription: "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a",
-    // Comment:[
-    //     {
-    //         id: 0,
-    //         rating:5,
-    //         commment: "is simply dummy text the printing and typesetting ",
-    //         author: "Himu",
-    //         date: "26/2/23",
-    //     },
+    Comment:[
+        {
+            id: 0,
+            rating:5,
+            commment: "is simply dummy text the printing and typesetting ",
+            author: "Himu",
+            date: "26/2/23",
+        },
 
-    // ]
+    ]
 
    },
 
