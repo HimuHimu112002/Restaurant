@@ -1,7 +1,7 @@
 import React from 'react'
 import { Card } from 'react-bootstrap'
 import Button from 'react-bootstrap/Button';
-import UserComment from './UserComment';
+import UserComment from './UserComment'
 
 const DishDeteails = (props) => {
   return (

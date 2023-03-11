@@ -6,6 +6,7 @@ import Modal from 'react-bootstrap/Modal';
 import DishDeteails from "./DishDeteails";
 import Button from 'react-bootstrap/Button';
 
+
 class Menu extends Component{
     
     state = {
@@ -73,4 +74,5 @@ class Menu extends Component{
         )
     }
 }
+
 export default Menu

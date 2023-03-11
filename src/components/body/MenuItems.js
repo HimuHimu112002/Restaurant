@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card, Col, Container, Row,Button } from 'react-bootstrap'
-import { Link } from 'react-router-dom';
+
 
 const MenuItems = (props) => {
   return (
@@ -14,7 +14,7 @@ const MenuItems = (props) => {
 
                     <Card.Body>
                         <Card.Title>{props.dish.name}</Card.Title>
-                        <Link to="/menuDetail"><Button variant="success" className='text-white'>View Details</Button></Link>
+                        <Button variant="success" className='text-white'>View Details</Button>
                     </Card.Body>
 
                 </Card>
